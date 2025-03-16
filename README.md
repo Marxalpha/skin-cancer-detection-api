@@ -1,6 +1,7 @@
-# Skin Cancer Detection App
+# Skin Cancer Detection App's Api
 
-A web application for automated detection of skin cancer lesions using deep learning.
+This is the backend for the Skin Cancer Detection App
+Check it out here => [A web application for automated detection of skin cancer lesions using deep learning](https://github.com/saketh-pallempati/skin-cancer-detection-frontend).
 
 ## Features
 
@@ -30,3 +31,4 @@ A web application for automated detection of skin cancer lesions using deep lear
 cd backend
 pip install -r [requirements.txt](http://_vscodecontentref_/0)
 uvicorn app.main:app --reload
+```
